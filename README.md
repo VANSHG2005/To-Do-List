@@ -37,18 +37,20 @@ To run this project locally:
 
 3. Open index.html in your browser to start using the app.
 
-💡 Future Improvements
+
+
+## 💡 Future Improvements
 - Add task persistence using localStorage
 - Support for task deadlines and priorities
 - Mark tasks as completed
 - Dark mode toggle
 
-🙌 Acknowledgements
+## 🙌 Acknowledgements
 This is a personal project to practice front-end web development and DOM manipulation.
 
 Feel free to contribute or fork this project!
 
-📬 Contact
+## 📬 Contact
 Created by Vansh Garg – feel free to reach out!
 
 Let me know if you’d like a version with additional features, badges, or markdown enhancements!
